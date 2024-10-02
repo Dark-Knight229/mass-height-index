@@ -61,5 +61,3 @@ result_la = ttk.Label(text="", font=("Helvetica", 14), foreground="black")
 result_la.grid(row=9, column=0, columnspan=2, pady=10)
 
 window.mainloop()
-
-a = 5
